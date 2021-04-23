@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-l9pr3/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-l9pr3/static/js/main.cd84d416.chunk.js",
-    "main.js.map": "https://.github.io/csb-l9pr3/static/js/main.cd84d416.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-l9pr3/static/js/runtime-main.abcca4ed.js",
-    "runtime-main.js.map": "https://.github.io/csb-l9pr3/static/js/runtime-main.abcca4ed.js.map",
-    "static/js/2.6018c1b0.chunk.js": "https://.github.io/csb-l9pr3/static/js/2.6018c1b0.chunk.js",
-    "static/js/2.6018c1b0.chunk.js.map": "https://.github.io/csb-l9pr3/static/js/2.6018c1b0.chunk.js.map",
-    "index.html": "https://.github.io/csb-l9pr3/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-l9pr3/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://.github.io/csb-l9pr3/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+    "main.css": "https://anupam-tiwari.github.io/csb-l9pr3/static/css/main.311f7816.chunk.css",
+    "main.js": "https://anupam-tiwari.github.io/csb-l9pr3/static/js/main.c1cf3514.chunk.js",
+    "main.js.map": "https://anupam-tiwari.github.io/csb-l9pr3/static/js/main.c1cf3514.chunk.js.map",
+    "runtime-main.js": "https://anupam-tiwari.github.io/csb-l9pr3/static/js/runtime-main.c76f38ff.js",
+    "runtime-main.js.map": "https://anupam-tiwari.github.io/csb-l9pr3/static/js/runtime-main.c76f38ff.js.map",
+    "static/js/2.f6b4817e.chunk.js": "https://anupam-tiwari.github.io/csb-l9pr3/static/js/2.f6b4817e.chunk.js",
+    "static/js/2.f6b4817e.chunk.js.map": "https://anupam-tiwari.github.io/csb-l9pr3/static/js/2.f6b4817e.chunk.js.map",
+    "index.html": "https://anupam-tiwari.github.io/csb-l9pr3/index.html",
+    "static/css/main.311f7816.chunk.css.map": "https://anupam-tiwari.github.io/csb-l9pr3/static/css/main.311f7816.chunk.css.map",
+    "static/js/2.f6b4817e.chunk.js.LICENSE.txt": "https://anupam-tiwari.github.io/csb-l9pr3/static/js/2.f6b4817e.chunk.js.LICENSE.txt",
+    "static/media/oxygen.be1ae036.jpg": "https://anupam-tiwari.github.io/csb-l9pr3/static/media/oxygen.be1ae036.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.abcca4ed.js",
-    "static/js/2.6018c1b0.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.cd84d416.chunk.js"
+    "static/js/runtime-main.c76f38ff.js",
+    "static/js/2.f6b4817e.chunk.js",
+    "static/css/main.311f7816.chunk.css",
+    "static/js/main.c1cf3514.chunk.js"
   ]
 }
